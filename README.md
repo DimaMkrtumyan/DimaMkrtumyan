@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DimaMkrtumyan
-- 📱 I’m an iOS Developer
+- 📱 I’m an iOS Developer with almost one year experience
 - 🌱 I’m currently learning iOS Swift Developing at Picsart Academy
 - 📫 How to reach me Dmitriy.Mkrtumyan@gmail.com
 
