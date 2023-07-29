@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimaMkrtumyan
-- 👀 I’m interested in iOS Developing, Video Production
-- 🌱 I’m currently learning iOS Swift Developing
+- 📱 I’m an iOS Developer
+- 🌱 I’m currently learning iOS Swift Developing at Picsart Academy
 - 📫 How to reach me Dmitriy.Mkrtumyan@gmail.com
 
 <!---
